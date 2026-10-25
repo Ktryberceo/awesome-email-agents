@@ -41,7 +41,7 @@ Tools and platforms for giving AI agents dedicated email capabilities.
 - `npm install resend` or `pip install resend`
 - GitHub: [resend/resend-node](https://github.com/resend/resend-node)
 
-**[Groundmail](https://groundmail.dev)** — Transactional email API with SDKs (Node, Python, Go, PHP, Ruby), SMTP relay, signed webhooks, inbound parsing, an MCP server and Agent Skills for Claude Code and Cursor. Runs on its own mail servers and IP space. Does not provision per-agent isolated inboxes. Best for agents that need to send on owned mail infrastructure.
+**[Groundmail](https://groundmail.dev)** — Transactional email API with SDKs (Node, Python, Go, PHP, Ruby), SMTP relay, signed webhooks, inbound parsing, an MCP server and Agent Skills for coding agents. Runs on its own mail servers and IP space. Does not provision per-agent isolated inboxes. Best for agents that need to send on owned mail infrastructure.
 - `npm install groundmail` · MCP: `npx -y groundmail-mcp`, or hosted at `https://mcp.groundmail.dev/mcp` (OAuth)
 - Docs: https://docs.groundmail.dev · Skills: [Groundmail/groundmail-skills](https://github.com/Groundmail/groundmail-skills) · SDKs: [Groundmail/groundmail-sdks](https://github.com/Groundmail/groundmail-sdks)
 
